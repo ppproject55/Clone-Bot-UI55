@@ -32,7 +32,7 @@ start - Check alive
 ```
 ### ░▒▓ Deploy Easy Way: ▓▒░
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dakshkohli23/Clone-Bot-UI)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ppproject55/Clone-Bot-UI55)
 
 ### ░▒▓ Deploy Legendary Way: ▓▒░
 
